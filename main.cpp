@@ -1,6 +1,6 @@
 #include <Windows.h>
 
-int WinMain(
+int __stdcall WinMain(
     HINSTANCE hInstance,
     HINSTANCE hPrevInstance,
     LPSTR     lpCmdLine,
